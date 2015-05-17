@@ -1,4 +1,12 @@
+[![Code Climate](https://codeclimate.com/github/j2ghz/417rct/badges/gpa.svg)](https://codeclimate.com/github/j2ghz/417rct)
+[![Test Coverage](https://codeclimate.com/github/j2ghz/417rct/badges/coverage.svg)](https://codeclimate.com/github/j2ghz/417rct/coverage)
+[![Dependency Status](https://gemnasium.com/j2ghz/417rct.svg)](https://gemnasium.com/j2ghz/417rct)
 [![Stories in Ready](https://badge.waffle.io/j2ghz/417rct.png?label=ready&title=Ready)](https://waffle.io/j2ghz/417rct)
+
+What to run:
+```
+composer update
+```
 
 ## Laravel PHP Framework
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
